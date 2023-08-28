@@ -1,4 +1,4 @@
-print("RAJESH")
+print("rajesh")
 print("192110536")
 print("Feed forward neural Network")
 import numpy as np
